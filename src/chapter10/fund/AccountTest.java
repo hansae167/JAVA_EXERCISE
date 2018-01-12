@@ -1,4 +1,4 @@
-package chapter09;
+package chapter10.fund;
 
 public class AccountTest {
 
